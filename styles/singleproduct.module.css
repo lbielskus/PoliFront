@@ -1,0 +1,32 @@
+.arrow-button {
+  background-color: #0c4242;
+  color: white;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.left-arrow {
+  margin-right: 0.1rem;
+}
+
+.right-arrow {
+  margin-left: 0.1rem;
+}
+
+.preserve-whitespace {
+  white-space: pre-wrap;
+}
+
+.tinymce-content a {
+  color: #3182ce;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .arrow-button {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1rem;
+  }
+}

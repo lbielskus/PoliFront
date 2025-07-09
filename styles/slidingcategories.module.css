@@ -1,0 +1,7 @@
+@media (max-width: 619px) {
+  .center-categories {
+    justify-items: center;
+    align-items: center;
+    margin-left: 0px;
+  }
+}

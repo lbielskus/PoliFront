@@ -1,0 +1,10 @@
+@media (max-width: 980px) {
+  .hide-links {
+    display: none;
+  }
+
+  .center-contact {
+    margin: auto;
+    padding-left: 30px;
+  }
+}

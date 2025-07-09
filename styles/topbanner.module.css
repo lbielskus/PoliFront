@@ -1,0 +1,9 @@
+@media (max-width: 1000px) {
+  .hide-links {
+    display: none;
+  }
+
+  .logo {
+    justify-content: center;
+  }
+}

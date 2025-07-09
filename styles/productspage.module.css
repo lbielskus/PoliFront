@@ -1,0 +1,8 @@
+@media (max-width: 1012px) {
+  .products-cards {
+    margin: auto;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+  }
+}
