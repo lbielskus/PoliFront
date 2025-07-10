@@ -357,7 +357,7 @@ export default function ProductPage({ product }) {
                       <Button
                         title='✉️ Gauti pasiūlymą'
                         type='button'
-                        onClick={() => {}}
+                        onClick={() => router.push('/kontaktai')}
                       />
                     </div>
                   </div>
@@ -567,7 +567,7 @@ export default function ProductPage({ product }) {
                 <Button
                   title='Gauti pasiūlymą'
                   type='button'
-                  onClick={() => {}}
+                  onClick={() => router.push('/kontaktai')}
                 />
               </div>
             </div>
